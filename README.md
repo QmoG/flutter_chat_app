@@ -1,4 +1,4 @@
-# CHAT APP IN FLUTTER USING GOOGLE FIREBASE
+# CHAT APP IN FLUTTER USING GOOGLE FIRESTORE
  Chat App in Flutter using Google Firebase
 
 # Introduction:
